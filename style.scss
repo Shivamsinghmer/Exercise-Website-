@@ -525,3 +525,8 @@ footer{
         padding: 10px;
     }
 }
+@media(max-width: 400px){
+    .frontpage{
+        height: 110vh
+    }
+}
